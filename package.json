@@ -1,0 +1,23 @@
+{
+  "name": "aurelia-typescript-obt",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aurelia-event-aggregator": "latest",
+    "aurelia-framework": "latest",
+    "aurelia-history": "^1.1.0",
+    "aurelia-history-browser": "latest",
+    "aurelia-loader": "latest",
+    "aurelia-logging": "latest",
+    "aurelia-logging-console": "latest",
+    "aurelia-metadata": "latest",
+    "aurelia-pal": "latest",
+    "aurelia-pal-browser": "latest",
+    "aurelia-polyfills": "latest",
+    "aurelia-router": "latest",
+    "aurelia-templating": "latest",
+    "aurelia-templating-binding": "latest",
+    "aurelia-templating-resources": "latest",
+    "aurelia-templating-router": "latest"
+  }
+}
